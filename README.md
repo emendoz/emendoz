@@ -4,6 +4,7 @@
 - I'm currently expanding my learning in machine learning and data analyzing.
 - Forms of contact:
   - Email me at erikagmendoz@gmail.com
+  - Link up on Linkedin at www.linkedin.com/in/erikagmendoza 
 
 <!---
 emendoz/emendoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
