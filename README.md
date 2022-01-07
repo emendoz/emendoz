@@ -1,4 +1,5 @@
 - Hello, I’m Erika Mendoza (@emendoz)
+- At the moment, I am a third year Computer Science undergraduate at Sonoma State University studying towards a BS.
 - My interests lie in data, Machine Learning, web development, and graphics.
 - I'm currently expanding my learning in machine learning and data analyzing.
 - Forms of contact:
