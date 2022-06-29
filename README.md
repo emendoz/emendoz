@@ -1,8 +1,8 @@
-<p align="center">
- 
-    <img src="https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG" data-canonical-src="https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG " width="100" height="50" />
+<!-- banner here -->
+<h1 align="center"> </h1>
 
-</p>
+
+<h4 align="center"> <img src="https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG" data-canonical-src="https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG " width="481" height="90" /> </h4>
 
 <!--
 **emendoz/emendoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
