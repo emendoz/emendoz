@@ -2,7 +2,7 @@
 <h1 align="center"> </h1>
 
 
-<h4 align="center"> <img src="https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG" data-canonical-src="https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG " width="481" height="90" /> </h4>
+<h4 align="center"> <img src="https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG" data-canonical-src="https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG " width="381" height="70" /> </h4>
 
 <!--
 **emendoz/emendoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
