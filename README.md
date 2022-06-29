@@ -1,5 +1,5 @@
 ### Hi there 👋
-![SSU Logo](https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG)
+![SSU Logo](https://github.com/emendoz/emendoz/blob/main/images/SSU_blue.PNG = 150x150)
 
 <!--
 **emendoz/emendoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
