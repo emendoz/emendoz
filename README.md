@@ -1,6 +1,6 @@
 ### Erika Mendoza here!
 
-- I am a current Computer Science student at Sonoma State University!
+- I am a recent Computer Science Graduate from Sonoma State University!
 
 ## Connect with me:
 [<img align="left" alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/erikagmendoz/)
